@@ -1,0 +1,39 @@
+{
+    "data": [
+      {
+        "question": "What is the capital of Egypt ?",
+        "choices": ["Split", "Cairo", "Zagreb", "Rijeka"],
+        "answer": "Cairo"
+      },
+      {
+        "question": "What is the capital of England ?",
+        "choices": ["Celje", "London", "Maribor", "Koper"],
+        "answer": "London"
+      },
+      {
+        "question": "What is the capital of France ?",
+        "choices": ["Graz", "Salzburg", "Paris", "Vienna"],
+        "answer": "Paris"
+      },
+      {
+        "question": "What is the capital of Germany ?",
+        "choices": ["Belgrade", "Novi Sad", "Niš", "Berlin"],
+        "answer": "Berlin"
+      },
+      {
+        "question": "What is the capital of Iraq ?",
+        "choices": ["Belgrade", "Baghdad", "Niš", "Berlin"],
+        "answer": "Baghdad"
+      },
+      {
+        "question": "What is the capital of Italy ?",
+        "choices": ["Rome", "Novi Sad", "Niš", "Berlin"],
+        "answer": "Rome"
+      },
+      {
+        "question": "What is the capital of Jordan ?",
+        "choices": ["Belgrade", "Novi Sad", "Amman", "Berlin"],
+        "answer": "Amman"
+      }
+    ]
+  }
